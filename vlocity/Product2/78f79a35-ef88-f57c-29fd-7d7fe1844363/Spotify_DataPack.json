@@ -15,7 +15,7 @@
                 "Code__c": "ACAT_TECH",
                 "Name": "Technical Attributes",
                 "displaySequence": 100,
-                "id": "a0J4x000000r4tgEAA",
+                "id": "a0J4x000000ZXXYEA4",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -23,7 +23,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K4x000002Ld1dEAC",
+                            "attributeId": "a0K4x0000024aqXEAQ",
                             "cloneable": true,
                             "code": "ATT_DC_IN",
                             "dataType": "text",
@@ -56,7 +56,7 @@
                 "Code__c": "ATT_CODE_IS",
                 "Name": "Internet Services",
                 "displaySequence": 30,
-                "id": "a0J4x000000r4tfEAA",
+                "id": "a0J4x000000ZXXXEA4",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -64,7 +64,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0K4x000002Ld29EAC",
+                            "attributeId": "a0K4x0000024ar3EAA",
                             "cloneable": true,
                             "code": "ATT_SPOT_NUMACCNTS",
                             "dataType": "text",
@@ -90,7 +90,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0K4x000002Ld28EAC",
+                            "attributeId": "a0K4x0000024ar2EAA",
                             "cloneable": true,
                             "code": "ATT_SPOT_TYPE",
                             "dataType": "text",
@@ -157,6 +157,7 @@
     "%vlocity_namespace%__HeaderData__c": "",
     "%vlocity_namespace%__HelpText__c": "",
     "%vlocity_namespace%__IsConfigurable__c": true,
+    "%vlocity_namespace%__IsCustomerSubscription__c": false,
     "%vlocity_namespace%__IsLocationDependent__c": false,
     "%vlocity_namespace%__IsNotAssetizable__c": false,
     "%vlocity_namespace%__IsOrderable__c": true,
