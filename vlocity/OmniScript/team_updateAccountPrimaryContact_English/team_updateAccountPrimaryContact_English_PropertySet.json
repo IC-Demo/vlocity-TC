@@ -87,6 +87,10 @@
     "showInputWidth": false,
     "ssm": false,
     "stepChartPlacement": "right",
+    "stylesheet": {
+        "lightning": "",
+        "newport": ""
+    },
     "timeTracking": true,
     "trackingCustomData": {
     },
