@@ -8,13 +8,21 @@
     },
     "%vlocity_namespace%__PropertySet__c": {
         "HTMLTemplateId": "",
+        "allowSaveForLater": true,
         "cancelLabel": "Cancel",
         "cancelMessage": "Are you sure?",
+        "chartLabel": null,
         "completeLabel": "Complete",
         "completeMessage": "Are you sure you want to complete the script?",
         "conditionType": "Hide if False",
         "disOnTplt": false,
+        "errorMessage": {
+            "custom": [
+            ],
+            "default": null
+        },
         "instruction": "",
+        "instructionKey": "",
         "knowledgeOptions": {
             "dataCategoryCriteria": "",
             "keyword": "",
@@ -23,11 +31,14 @@
             "remoteTimeout": 30000,
             "typeFilter": ""
         },
-        "label": "Update Account Primary Contact",
+        "label": "Step1",
+        "message": {
+        },
         "nextLabel": "Next",
         "nextWidth": 3,
         "previousLabel": "Previous",
         "previousWidth": 3,
+        "pubsub": false,
         "remoteClass": "",
         "remoteMethod": "",
         "remoteOptions": {
@@ -37,10 +48,12 @@
         "saveMessage": "Are you sure you want to save it for later?",
         "show": null,
         "showPersistentComponent": [
-            false,
-            false
+            null,
+            null
         ],
-        "validationRequired": true
+        "ssm": false,
+        "validationRequired": true,
+        "wpm": false
     },
     "%vlocity_namespace%__ReusableOmniScript__c": false,
     "%vlocity_namespace%__Type__c": "Step",

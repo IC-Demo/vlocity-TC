@@ -1,6 +1,6 @@
 {
     "%vlocity_namespace%__Active__c": true,
-    "%vlocity_namespace%__InternalNotes__c": "IF(%UpdateName%=null&&%TAChangeContact%=null&&%CreateLastName%=null, \"NotOK\",\"OK\")",
+    "%vlocity_namespace%__InternalNotes__c": "IF(%UpdateName%=null&&%TAChangeContact%=null&&%CreateLastName%=null, \"NotOK\", \"OK\")",
     "%vlocity_namespace%__OmniScriptId__c": {
         "Name": "Team Starter Update Account Primary Contact",
         "VlocityDataPackType": "VlocityMatchingKeyObject",
